@@ -66300,8 +66300,9 @@ J(a){var s=null,r="#FFFFFF",q="#00FFFFFF",p="subtitle2",o=t.l,n=a.a7(o).f.a.a/2,
 e=A.du(A.tX(A.du(new A.dM(new A.eb("CONTACT ME",r,p),s),new A.cQ(8,8,8,8)),s,new A.Xu(),e),new A.cQ(0,12,8,8))
 f=A.m0(s,s,new A.bk(new A.cu(A.d_("#55198b")>>>0),g),new A.bk(2,h),s,s,s,s,s,s,s,s,s,new A.bk(new A.cl(A.ke(40),new A.cE(new A.cu(A.d_(q)>>>0),1,B.ad,B.Q)),f),s,s,s,s,s,s)
 h=t.E
-l=A.hz(A.du(A.op(A.a([k,j,i,A.du(A.Jc(A.a([e,A.du(A.tX(A.du(new A.dM(new A.eb("SEE MY RESUME",r,p),s),new A.cQ(8,8,8,8)),s,new A.Xv(),f),new A.cQ(0,0,8,8))],h),B.er,B.a_,B.bv),new A.cQ(0,0,12,12))],h),B.b0,B.aA,B.rn),new A.cQ(30,20,0,10)),s,l)
-return A.Jc(A.a([l,A.op(A.a([A.Ra(A.fw(360,"https://ik.imagekit.io/jhavidit/introduction.json?updatedAt=1687455645421",s,s,a.a7(o).f.a.a<800?m*2:m))],h),B.dg,B.aA,B.aL)],h),B.er,B.a_,B.bv)}}
+l=A.a([A.hz(A.du(A.op(A.a([k,j,i,A.du(A.Jc(A.a([e,A.du(A.tX(A.du(new A.dM(new A.eb("SEE MY RESUME",r,p),s),new A.cQ(8,8,8,8)),s,new A.Xv(),f),new A.cQ(0,0,8,8))],h),B.er,B.a_,B.bv),new A.cQ(0,0,12,12))],h),B.b0,B.aA,B.rn),new A.cQ(30,20,0,10)),s,l)],h)
+if(a.a7(o).f.a.a>1200)l.push(A.op(A.a([A.Ra(A.fw(360,"https://ik.imagekit.io/jhavidit/introduction.json?updatedAt=1687455645421",s,s,a.a7(o).f.a.a<800?m*2:m))],h),B.dg,B.aA,B.aL))
+return A.Jc(l,B.er,B.a_,B.bv)}}
 A.Xu.prototype={
 $0(){},
 $S:0}
